@@ -1,0 +1,15 @@
+/Users/kirill_2008/Desktop/Dz5/Dz5/bin/Debug/net10.0/Dz5
+/Users/kirill_2008/Desktop/Dz5/Dz5/bin/Debug/net10.0/Dz5.deps.json
+/Users/kirill_2008/Desktop/Dz5/Dz5/bin/Debug/net10.0/Dz5.runtimeconfig.json
+/Users/kirill_2008/Desktop/Dz5/Dz5/bin/Debug/net10.0/Dz5.dll
+/Users/kirill_2008/Desktop/Dz5/Dz5/bin/Debug/net10.0/Dz5.pdb
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/Dz5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/Dz5.AssemblyInfoInputs.cache
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/Dz5.AssemblyInfo.cs
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/Dz5.csproj.CoreCompileInputs.cache
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/Dz5.sourcelink.json
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/Dz5.dll
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/refint/Dz5.dll
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/Dz5.pdb
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/Dz5.genruntimeconfig.cache
+/Users/kirill_2008/Desktop/Dz5/Dz5/obj/Debug/net10.0/ref/Dz5.dll
